@@ -1,0 +1,25 @@
+PODS:
+  - iOSNinePatch (0.1.0)
+  - SDWebImage (5.17.0):
+    - SDWebImage/Core (= 5.17.0)
+  - SDWebImage/Core (5.17.0)
+
+DEPENDENCIES:
+  - iOSNinePatch (from `../`)
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  iOSNinePatch:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  iOSNinePatch: 06d6f500b9c379536cfaa34b5aa512c696f1c062
+  SDWebImage: 750adf017a315a280c60fde706ab1e552a3ae4e9
+
+PODFILE CHECKSUM: a40eec82ab730c0c3c8f4a17f2bbb1c62d3380be
+
+COCOAPODS: 1.11.2
